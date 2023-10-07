@@ -1,17 +1,12 @@
-# libraryautomation
+# Library Automation - Flutter
 
-Library Automation System
+## Overview
+This Flutter-web based front-end project simulates the basic functionality of a library system by communicating with my ASP.NET Core backend solution via HTTP protocol
 
-## Getting Started
+## Libraries
+# HTTP 1.1.0
+It was used to communicate with the backend service via HTTP protocol.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![loginScreen](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/e095758c-265c-472a-9f89-899a5bba6a19)
