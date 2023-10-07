@@ -15,7 +15,7 @@ This Flutter-web based front-end project simulates the basic functionality of a 
 ![borrowedBooks](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/12fc0ba8-74bc-4303-8a45-00f7ebe89211)
 
 
-# Libraries
+# Additional Libraries
 
 1) http 1.1.0 : Used to communicate with the backend service via HTTP protocol. https://pub.dev/packages/http
 2) flutter_spinkit 5.2.0 : Used to present a waiting animation while data is being loaded into pages. https://pub.dev/packages/flutter_spinkit
