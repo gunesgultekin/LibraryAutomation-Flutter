@@ -5,15 +5,14 @@ This Flutter-web based front-end project simulates the basic functionality of a 
 
 # Application Visuals
 ![Splash Page](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/26c7147d-3fb7-4833-97f9-003e05158f83)
-
-![Login Screen](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/6f3964e1-8c1d-4d72-a269-501762aa3c27)
-![Dashboard](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/81529186-1d30-4596-818f-96743c405b4f)
-![Dashboard-1](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/31cb2334-3c4c-4603-b2fc-8ce738a0ae6c)
-![Dashboard-2](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/d547a3ef-317d-4c14-b6e6-ddb2a3ff4fe3)
-![Database View](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/ce67aa4d-68ae-4523-a8c3-52c4e928730f)
-![Gallery View](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/7480b202-56a9-44de-ad7b-8654b9eca9ec)
-![Authors View](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/4f0b3bb2-877d-45d6-a95e-18603a30048b)
-![Borrow/Deliver Pop-Up](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/12fc0ba8-74bc-4303-8a45-00f7ebe89211)
+![Login/Register Page](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/ec2407ec-f731-4e8d-bf4f-48922f48ef91)
+![Dashboard-1](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/f24137f3-7114-4772-a0ab-0fe4b5d3590e)
+![Dashboard-2](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/197cf63f-84ad-407d-9ba3-d1a321363a87)
+![Dashboard-3](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/e07bb0b3-dfc5-42ce-8d04-4861a819b1ac)
+![Database View](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/62d0916b-0ed2-4da1-b843-652fabe5aa8b)
+![Gallery](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/0c3fb861-146a-4c5f-8aab-d5905153ce3c)
+![Authors Gallery](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/fe9d1469-42f1-4d4c-8efe-de19ce8f0123)
+![Borrow/Deliver Pop-up](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/da270000-3bfa-4ba1-8034-fb43ba9ea43e)
 
 
 # Additional Libraries
