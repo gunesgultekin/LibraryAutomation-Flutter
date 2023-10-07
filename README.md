@@ -4,7 +4,8 @@
 This Flutter-web based front-end project simulates the basic functionality of a library system by communicating with my ASP.NET Core backend solution via HTTP protocol
 
 # Application Visuals
-![Splash Screen](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/665ae40a-4561-49dc-9531-148d79fa8baf)
+![Splash Page](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/26c7147d-3fb7-4833-97f9-003e05158f83)
+
 ![Login Screen](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/6f3964e1-8c1d-4d72-a269-501762aa3c27)
 ![Dashboard](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/81529186-1d30-4596-818f-96743c405b4f)
 ![Dashboard-1](https://github.com/gunesgultekin/LibraryAutomation-Flutter/assets/126399958/31cb2334-3c4c-4603-b2fc-8ce738a0ae6c)
