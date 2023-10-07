@@ -5,8 +5,10 @@ This Flutter-web based front-end project simulates the basic functionality of a 
 
 # Libraries
 
-# HTTP 1.1.0
-It was used to communicate with the backend service via HTTP protocol.
+1) http 1.1.0 : Used to communicate with the backend service via HTTP protocol. https://pub.dev/packages/http
+2) flutter_spinkit 5.2.0 : - Used to present a waiting animation while data is being loaded into pages. https://pub.dev/packages/flutter_spinkit
+3) 
+
 
 
 
